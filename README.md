@@ -2,7 +2,7 @@
 
 - 😎 My name is Wesley, I'm 29 years old and a wheelchair user
 - 🔭 I'm graduated in Science & Technology, Biomedical Engineering and studying to become an Math Teacher
-- 🌱 I’m working as Software Developer on Mercado Pago
+- 🌱 I’m working as Software Developer on Mercado Livre
 - 💬 Ask me about Java, RPA and some other stuff
 - 📫 How to reach me: wes.guilherme92@gmail.com
 - 😄 Pronouns: He/Ele/Él
